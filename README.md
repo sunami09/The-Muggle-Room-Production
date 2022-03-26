@@ -8,7 +8,6 @@ With screen sharing capabilities, private and group messaging, admin controls, a
 git clone https://github.com/sunami09/The-Muggle-Room-Production.git
 cd The-Muggle-Room-Production
 npm start
-
 ```
 ## Deployment
 * https://muggleroom.netlify.app/create
