@@ -1,10 +1,19 @@
 
-== Agora Appbuilder ==
+# Muggle Room - Video Conference Application
+
+With screen sharing capabilities, private and group messaging, admin controls, and much more, this video chat app is the best group video conference app.
+
+## How to run on your System
+```
+git clone https://github.com/sunami09/The-Muggle-Room-Production.git
+cd The-Muggle-Room-Production
+npm start
+
+```
+## Deployment
+* https://muggleroom.netlify.app/create
+* Used netlify's web hosting services.
+
+## Demo
 
 
-Instructions to run the project:
-
-1. Open a terminal inside this folder
-2. Run - npm i && npm start (You need nodejs v14.x installed on you system)
-3. Select install through the CLI menu
-4. Build for any supported platform
